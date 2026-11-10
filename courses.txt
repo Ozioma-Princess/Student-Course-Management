@@ -1,0 +1,2 @@
+MTH205,Mathematical Method,2
+COS201,Computer Programming,3
